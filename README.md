@@ -1,1 +1,2 @@
-IAT339_lab5Git
+# This is a IAT339 Lab Activity
+Learning how to use Git
